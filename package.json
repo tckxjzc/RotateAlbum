@@ -1,0 +1,13 @@
+{
+  "name": "rotating-album-master",
+  "version": "1.0.0",
+  "description": "3d立体相册",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./dev-start.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
